@@ -1,0 +1,97 @@
+1- spagitte code
+
+2- move to functions
+    --> (set of lines needed be used more than one function)
+
+
+OOP principles
+
+    encapsulation  Done
+    polymorphism  Done
+    inheritance  Done
+    abstraction
+  --------------------------------------
+    Interfaces
+    ----------------------
+    traits
+
+
+
+
+
+
+Why OOP?
+----> programming ---> work team in the same project ---->
+conflicts  between developers
+
+Paradiagm ---> organization for the code ---> solve structure, Architecuture problems
+
+functional programming --> Eng. Mohamed Hammad
+OOP ----> object oriented programming ---> computer programming model ---> used to organize the software around
+the data or objects rather than logic
+
+
+Class ----> represent type or blueprint of something
+
+
+$studentInfo1= [
+    "firstname"=>"Ahmed",
+    "lastname"=>"Ali",
+    "email"=>"Ahmed@gmail.com",
+    "nationalid"=>"66666",
+]
+
+
+$studentInfo1= [
+    "fname"=>"Ahmed",
+    "lname"=>"Mohmaed",
+    "email"=>"mohamed@gmail.com",
+    "nationalid"=>"66666",
+]
+
+--------------------- Polymorphism
+
+
+## overloading :: ---> multiple functions with the same name
+and different argumnets (type , number argumets(
+
+
+
+### overriding ----> function apears in both the parent
+and the child class ## the same function signtature , but
+different in the implmentation
+
+---------------------------------
+
+
+Employee (common properties and methods)
+
+
+Teacher , Engineer , Manager,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
